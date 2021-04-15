@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LinkedIn_Copy_Reactjs_Firebase/static/css/main.192015d4.chunk.css",
+    "main.js": "/LinkedIn_Copy_Reactjs_Firebase/static/js/main.865d48cf.chunk.js",
+    "main.js.map": "/LinkedIn_Copy_Reactjs_Firebase/static/js/main.865d48cf.chunk.js.map",
+    "runtime-main.js": "/LinkedIn_Copy_Reactjs_Firebase/static/js/runtime-main.20659d03.js",
+    "runtime-main.js.map": "/LinkedIn_Copy_Reactjs_Firebase/static/js/runtime-main.20659d03.js.map",
+    "static/js/2.078cd9d9.chunk.js": "/LinkedIn_Copy_Reactjs_Firebase/static/js/2.078cd9d9.chunk.js",
+    "static/js/2.078cd9d9.chunk.js.map": "/LinkedIn_Copy_Reactjs_Firebase/static/js/2.078cd9d9.chunk.js.map",
+    "index.html": "/LinkedIn_Copy_Reactjs_Firebase/index.html",
+    "static/css/main.192015d4.chunk.css.map": "/LinkedIn_Copy_Reactjs_Firebase/static/css/main.192015d4.chunk.css.map",
+    "static/js/2.078cd9d9.chunk.js.LICENSE.txt": "/LinkedIn_Copy_Reactjs_Firebase/static/js/2.078cd9d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20659d03.js",
+    "static/js/2.078cd9d9.chunk.js",
+    "static/css/main.192015d4.chunk.css",
+    "static/js/main.865d48cf.chunk.js"
+  ]
+}
